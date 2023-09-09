@@ -5,9 +5,7 @@ public class TestandoVariaveis {
         String masculino2 = "Masculino"; //Grande quantidade de caracteres
         String feminino2 = "Feminino";
         boolean condicao = false; //Tem que escrever true ou false; o sistema recebe 0 ou 1, porém para printar na tela ele transforma em string
-        
 
-
-        System.out.println(caractere);
+        System.out.println(condicao);
     }
 }
