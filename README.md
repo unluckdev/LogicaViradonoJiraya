@@ -12,9 +12,9 @@
 1. Lógica Virado no Jiraya 08 - 08/09/2023
 1. Lógica Virado no Jiraya 09 - 08/09/2023
 1. Lógica Virado no Jiraya 10 - 08/09/2023
-1. Lógica Virado no Jiraya 11 - 
-1. Lógica Virado no Jiraya 12 - 
-1. Lógica Virado no Jiraya 13 - 
+1. Lógica Virado no Jiraya 11 - 08/09/2023
+1. Lógica Virado no Jiraya 12 - 08/09/2023
+1. Lógica Virado no Jiraya 13 - 08/09/2023
 1. Lógica Virado no Jiraya 14 - 
 1. Lógica Virado no Jiraya 15 - 
 1. Lógica Virado no Jiraya 16 - 
