@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondiconais;
+
 /*
 Dado um determinado salário
 Se o salário for maior que 4500 imprima 30% senão imprima 10% do valor

@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondiconais;
+
 public class TorneioNatacao {
     public static void main(String[] args) {
         String competidor = "Augusto";

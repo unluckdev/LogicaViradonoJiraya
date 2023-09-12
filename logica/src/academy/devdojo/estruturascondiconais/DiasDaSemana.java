@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondiconais;
+
 /*
 Receba um número inteiro do usúario e imprima o dia da semana correspondente
 Sendo 1 segunda-feira

@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondiconais;
+
 import java.util.Scanner;
 
 public class AlistamentoMilitar {
