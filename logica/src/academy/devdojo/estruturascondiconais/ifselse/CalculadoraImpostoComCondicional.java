@@ -1,4 +1,4 @@
-package academy.devdojo.estruturascondiconais;
+package academy.devdojo.estruturascondiconais.ifselse;
 
 /*
 Dado um determinado salário

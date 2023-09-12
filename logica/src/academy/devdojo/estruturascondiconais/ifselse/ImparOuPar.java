@@ -1,4 +1,4 @@
-package academy.devdojo.estruturascondiconais;
+package academy.devdojo.estruturascondiconais.ifselse;
 
 public class ImparOuPar {
     public static void main(String[] args) {

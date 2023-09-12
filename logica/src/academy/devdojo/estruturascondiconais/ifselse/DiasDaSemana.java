@@ -1,4 +1,4 @@
-package academy.devdojo.estruturascondiconais;
+package academy.devdojo.estruturascondiconais.ifselse;
 
 /*
 Receba um número inteiro do usúario e imprima o dia da semana correspondente
