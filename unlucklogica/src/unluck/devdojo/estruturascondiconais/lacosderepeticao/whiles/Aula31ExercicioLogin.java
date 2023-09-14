@@ -1,4 +1,4 @@
-package unluck.devdojo.estruturascondiconais.switchcase;
+package unluck.devdojo.estruturascondiconais.lacosderepeticao.whiles;
 
 import java.util.Scanner;
 
