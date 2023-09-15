@@ -1,9 +1,9 @@
 package unluck.devdojo.estruturascondiconais.lacosderepeticao.fors;
 
-public class Aula33IntroducaoFor {
+public class Aula34Exercicio1 {
     public static void main(String[] args) {
-        for(int i = 0; i <= 10; i++ ){
-            System.out.println(i);
+        for(int i = 15; i <= 200; i++){
+            System.out.println(i*i);
         }
     }
 }
