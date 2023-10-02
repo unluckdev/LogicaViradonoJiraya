@@ -1,4 +1,4 @@
-package unluck.devdojo.arrays;
+package unluck.devdojo.arrays.unidemensional;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package unluck.devdojo.arrays;
+package unluck.devdojo.arrays.unidemensional;
 
 public class Aula37IntroducaoArrays {
     public static void main(String[] args) {
