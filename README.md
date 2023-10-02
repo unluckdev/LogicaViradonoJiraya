@@ -40,8 +40,8 @@
 1. Lógica Virado no Jiraya 36 - 14/09/2023
 1. Lógica Virado no Jiraya 37 - 14/09/2023
 1. Lógica Virado no Jiraya 38 - 14/09/2023
-1. Lógica Virado no Jiraya 39 - 
-1. Lógica Virado no Jiraya 40 - 
-1. Lógica Virado no Jiraya 41 - 
-1. Lógica Virado no Jiraya 42 - 
-1. Lógica Virado no Jiraya 43 - 
+1. Lógica Virado no Jiraya 39 - 01/10/2023
+1. Lógica Virado no Jiraya 40 - 01/10/2023
+1. Lógica Virado no Jiraya 41 - 01/10/2023
+1. Lógica Virado no Jiraya 42 - 01/10/2023
+1. Lógica Virado no Jiraya 43 - 01/10/2023
